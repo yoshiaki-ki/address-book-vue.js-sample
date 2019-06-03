@@ -1,4 +1,6 @@
-# first-project
+# Vue.js first-project -address management-
+Vue.jsのサンプルプロジェクト
+マイアドレス帳プロジェクト
 
 ## Project setup
 ```
